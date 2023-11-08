@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# GOATMeal - The App Fueling your Outdoor Adventure
 
-## Getting Started
+Welcome to GOATMeal! This app is designed to help outdoor enthusiasts plan and organize their meals for their adventures. Whether you're going camping, hiking, or on any outdoor expedition, this app can assist you in creating meal plans, knowing how much weight your packing, and inspiring outdoor culinary creativity! Stay tuned for custom packaged meals coming your way soon.
 
-First, run the development server:
+## Features coming soon!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **User Authentication**: Securely register and log in to create and save your meal plans.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Adventure Meal Planning**: Create, edit, and delete meal plans for your adventures.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Recipes**: Browse and search a collection of outdoor-friendly recipes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Shopping Lists**: Generate shopping lists based on your meal plans.
 
-## Learn More
+- **Customization**: Tailor your meal plans to your dietary preferences and restrictions.
 
-To learn more about Next.js, take a look at the following resources:
+- **Graphics**: Enjoy a visually appealing user interface with graphics designed by me, Chase Martin, using Adobe Illustrator.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Frontend**:
+  - Next.js
+  - React
+  - TypeScript
 
-## Deploy on Vercel
+- **Backend**:
+  - Prisma
+  - MongoDB
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Design**:
+  - Graphics created by Chase Martin and Adobe Illustrator
